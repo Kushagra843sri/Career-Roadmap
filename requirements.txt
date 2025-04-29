@@ -1,0 +1,9 @@
+streamlit
+pdfplumber
+langchain
+openai
+pinecone-client
+spacy
+PyPDF2
+tiktoken
+python-dotenv
